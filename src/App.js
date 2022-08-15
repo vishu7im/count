@@ -1,11 +1,11 @@
 import './App.css';
 import Usereducer from './components/Usereducer';
-import UseState from './components/Usestate';
+// import UseState from './components/Usestate';
 
 function App() {
   return (
     <>
-    <UseState/>
+    {/* <UseState/> */}
     <div>------------------</div>
     <Usereducer/>
     </>
